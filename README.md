@@ -1,4 +1,4 @@
-# Sales Performance Analytics Dashboard
+# Sales Performance Insights
 
 ## Overview
 This project is an interactive Sales Performance Analytics Dashboard built in Microsoft Excel using 500 rows of sales data. The dashboard provides insights into sales trends, customer behavior, product performance, and business KPIs.
